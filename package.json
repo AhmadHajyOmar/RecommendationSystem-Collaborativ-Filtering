@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cookie-parser": "^1.4.6",
+    "dom-parser": "^0.1.6",
+    "express": "^4.17.3",
+    "fetch-retry": "^5.0.2",
+    "ldloader": "^3.0.0",
+    "morgan": "^1.10.0",
+    "nedb": "^1.8.0",
+    "node-fetch": "^3.2.3",
+    "path": "^0.12.7",
+    "requires": "^1.0.2",
+    "routes": "^2.1.0",
+    "xml-parser": "^1.2.1",
+    "xml-stringify": "^3.1.0"
+  },
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "BBG by Ahmad Hajy Omar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bgg",
+    "data"
+  ],
+  "author": "Ahmad Hajy Omar",
+  "license": "MIT",
+  "type": "module"
+}
